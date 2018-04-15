@@ -11,4 +11,6 @@ Number of variables: 10
 
 Description: This data consists of the percentage composition of fatty acids found in the lipid fraction of Italian olive oils. The data arises from a study to determine the authenticity of an olive oil.
 
+Evaluation: Minimize the prediction error for each of the classes. 
+
 This dataset requires cleaning prior to modelling work. 
